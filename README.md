@@ -75,7 +75,7 @@ RX 570 8GB |	1150 |	2050 |	870 |	30 MH/s
 RX 480 8GB |	1150 |	2150 |	900 |	31 MH/s
 RX 470 8GB |	1150 |	2000 |	900 |	30 MH/s
 
-*Enabling Fast timings in AMD Radeon Software for 6000 series is reccomended. 
+*Enabling Fast timings in AMD Radeon Software for 6000 series is recommended. 
 
 *RX 5000 series values might be x2 in some overclocking tools.
 
