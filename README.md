@@ -66,7 +66,7 @@ In the script, there are four editable values.
 
 **"MiningBatchFileLocation"** contains the path of the batch file for your cryptocurrency miner. You MUST change this path to your own cryptocurrency miner's batch file path.
 
-**"GameExecutableNames"** contains a list of game executable names. If the script doesn't detect one of your games, add the executable name to this list. Be careful, as the script checks if there is any match between a process on your PC and the entry in the list. If you'd enter a game as "wizard" instead of a more specific ("WizardyGame") or executable ("WizardyGame.exe") name, some program like an install wizard might interfere and wrongly suspend your miner. Entries are not case-sensitive.
+**"GameExecutableNames"** contains a list of game executable names. If the script doesn't detect one of your games, add the executable name to this list. Be careful, as the script checks if there is any match between a process on your PC and the entry in the list. If you'd enter a game as "Wizard" instead of a more specific ("WizardyGame") or executable ("WizardyGame.exe") name, some program like an install wizard might interfere and wrongly suspend your miner. Entries are not case-sensitive.
 
 **"AfterburnerExecutableLocation"** contains the path to the Afterburner executable. If you don't have Afterburner installed in the default directory, change this value to the correct path.
 
