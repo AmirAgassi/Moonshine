@@ -9,7 +9,7 @@
 
 At current prices, your GPU can generate thousands of dollars of effort-free income every year. 
 Though I can only give a rough estimate with cards I have personally tested, you can refer to the chart below for some context.
-#
+# 
 GPU | "MSRP" | Income (monthly, USD) | Income (yearly, USD) | Return on Investment Yearly (MSRP!)
 --- | --- | --- | --- | --- |
 RX 580 8GB | "$175" | $77.775 | $933.3 | 433%
