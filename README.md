@@ -33,7 +33,7 @@ If you don't know how to setup a miner, you basically need to find a mining pool
 
 If you aren't overclocking your card when mining, you're throwing away money through your power bill and profits alike. Advanced guides are easily found online, but for a reference, a list of NVIDIA/AMD cards and their "most common" overclocks with respective expected hashrates are shown below.
 
-**NVIDIA**
+# NVIDIA
 
 Model |	Core Clock Delta	| Memory Clock Delta	| Power Limit (W)	| Expected Performance (DaggerHashimoto)
 --- | --- | --- | --- | --- |
@@ -56,8 +56,8 @@ GTX 1080|0|+700|135W|37 MH/s
 GTX 1070ti|0|+500|135W|30 MH/s
 GTX 1070|0|+450|115W|30 MH/s
 GTX 1060 6GB|0|+900|80W|23 MH/s
-
-**AMD**
+ 
+# AMD
 
 Model |	Core Clock	|	Memory Clock |	Core Voltage (mV)	|	Expected Performance
 --- | --- | --- | --- | --- |
@@ -74,6 +74,10 @@ RX 580 8GB |	1175 |	2150 |	850 |	31 MH/s
 RX 570 8GB |	1150 |	2050 |	870 |	30 MH/s
 RX 480 8GB |	1150 |	2150 |	900 |	31 MH/s
 RX 470 8GB |	1150 |	2000 |	900 |	30 MH/s
+
+*We recommend enabling Fast timings in AMD Radeon Software for 6000 series. 
+*RX 5000 series values might be x2 in some overclocking tools.
+Bios modding is required for most RX series cards to achieve the performance numbers stated in the above table.
 
 One you've figured out your **MINING** overclock, save it as your **1st profile** on Afterburner. This will automatically set when mining.
 
