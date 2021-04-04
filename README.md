@@ -24,12 +24,12 @@ If you aren't overclocking your card when mining, you're throwing away money thr
 Model |	Core Clock Delta	| Memory Clock Delta	| Power Limit (W)	| Expected Performance (DaggerHashimoto)
 --- | --- | --- | --- | --- |
 RTX 3090|-300|+1000|285W|120 MH/s
-RTX 3080|-150|+900|220W|98MH/s
-RTX 3070|-500|+1100|130W|60MH/s
-RTX 3060ti|-500|+1200|130W|60MH/s
-RTX 2080ti|-200|+1100|150W|57MH/s
-RTX 2080 Super|-50|+1000|175W|42MH/s
-RTX2080|-50|+800|155W|42MH/s
+RTX 3080|-150|+900|220W|98 MH/s
+RTX 3070|-500|+1100|130W|60 MH/s
+RTX 3060ti|-500|+1200|130W|60 MH/s
+RTX 2080ti|-200|+1100|150W|57 MH/s
+RTX 2080 Super|-50|+1000|175W|42 MH/s
+RTX2080|-50|+800|155W|42 MH/s
 RTX 2070 Super|-50|+800|150W|40 MH/s
 RTX 2070|-50|+800|125W|39 MH/s
 RTX 2060 Super|-50|+850|125W|39 MH/s
