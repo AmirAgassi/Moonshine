@@ -56,7 +56,7 @@ while True:
 
 	if ret != "none" and state == "mining":
 		state = "gaming"
-
+		print("Found game: " + ret)
 		print("Swapping to Gaming mode.")
 
 		resetAfterburner("profile2")
@@ -66,7 +66,7 @@ while True:
 		pobj.kill()
 
 	elif ret == "none" and state == "gaming":
-		state = "gaming"
+		state = "mining"
 
 		print("Swapping to Mining mode.")
 
