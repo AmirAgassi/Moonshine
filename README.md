@@ -43,6 +43,9 @@ GTX 1070ti|0|+500|135W|30 MH/s
 GTX 1070|0|+450|115W|30 MH/s
 GTX 1060 6GB|0|+900|80W|23 MH/s
 
+One you've figured out your **MINING** overclock, save it as your 1st profile on Afterburner. This will automatically set when mining.
+
+Your **GAMING** overclock (or stock settings) should be saved as the 2nd profile on Afterburner.
 
 
 
