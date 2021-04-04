@@ -60,6 +60,7 @@ GTX 1060 6GB|0|+900|80W|23 MH/s
 **AMD**
 
 Model |	Core Clock	|	Memory Clock |	Core Voltage (mV)	|	Expected Performance
+--- | --- | --- | --- | --- |
 RX 6900 XT* |	1300 |	2100 |	850 |	64 MH/s
 RX 6800 XT* |	1500 |	2150 |	900 |	64 MH/s
 RX 6800* |	1500 |	2100 | 1025 |	63 MH/s
