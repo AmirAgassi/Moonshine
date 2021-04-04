@@ -12,6 +12,8 @@ MiningBatchFileLocation = r"C:\\Users\\Admin\\Desktop\\EthereumMining\\mine_ethe
 
 UseAfterburner = True
 
+CheckInterval = 5
+
 ##############################################################################
 
 
@@ -26,14 +28,13 @@ def resetAfterburner(profile):
 		subprocess.Popen([AfterburnerExecutableLocation, "-" + profile], shell=True)
 
 
+
+
 resetAfterburner("profile1")
-
-
 
 process = subprocess.Popen(MiningBatchFileLocation, startupinfo=info)
 
-
-flip = "m"
+state = "mining"
 
 
  
@@ -50,18 +51,24 @@ def check():
 
 
 while True:
-	time.sleep(3)
+	time.sleep(CheckInterval)
 	ret = check()
 
-	if ret != "none" and flip == "m":
-		flip = "c"
+	if ret != "none" and state == "mining":
+		state = "gaming"
+
+		print("Swapping to Gaming mode.")
+
 		resetAfterburner("profile2")
 		pobj = psutil.Process(process.pid)
 		for c in pobj.children(recursive=True):
 		    c.kill()
 		pobj.kill()
 
-	elif ret == "none" and flip == "c":
-		flip = "m"
+	elif ret == "none" and state == "gaming":
+		state = "gaming"
+
+		print("Swapping to Mining mode.")
+
 		resetAfterburner("profile1")
 		process = subprocess.Popen(MiningBatchFileLocation, startupinfo=info)
