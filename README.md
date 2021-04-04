@@ -89,7 +89,7 @@ Your **GAMING** overclock and fan curves (or stock settings) should be saved as 
 
 # Setup
 
-In the [script](../Moonshine.py), there are four editable values.
+In the [script](Moonshine.py), there are four editable values.
 
 **"MiningBatchFileLocation"** contains the path of the batch file for your cryptocurrency miner. You MUST change this path to your own cryptocurrency miner's batch file path.
 
