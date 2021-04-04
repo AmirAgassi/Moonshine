@@ -89,7 +89,7 @@ Your **GAMING** overclock and fan curves (or stock settings) should be saved as 
 
 # Setup
 
-In the [script](Moonshine.py), there are four editable values.
+In the [script](Moonshine.py), there are five editable values.
 
 **"MiningBatchFileLocation"** contains the path of the batch file for your cryptocurrency miner. You MUST change this path to your own cryptocurrency miner's batch file path.
 
@@ -98,6 +98,8 @@ In the [script](Moonshine.py), there are four editable values.
 **"AfterburnerExecutableLocation"** contains the path to the Afterburner executable. If you don't have Afterburner installed in the default directory, change this value to the correct path.
 
 **"UseAfterburner"** is set to True by default. Set to False if you don't want the script to use Afterburner.
+
+**"CheckInterval"** is how long seconds to wait between scans. Default is 3, but most computers should be easily able to handle 1 if you don't have an absurd amount of tasks open.
 
 # Usage
 

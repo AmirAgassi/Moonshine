@@ -12,7 +12,7 @@ MiningBatchFileLocation = r"C:\\Users\\Admin\\Desktop\\EthereumMining\\mine_ethe
 
 UseAfterburner = True
 
-CheckInterval = 5
+CheckInterval = 3
 
 ##############################################################################
 
