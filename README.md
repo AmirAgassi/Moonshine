@@ -76,7 +76,8 @@ In the script, there are three editable values.
 
 1. Download the Python script and install dependencies from requirements.txt
 
-2. Ensure your overclock for (profile 1: mining) and (profile 2: gaming) are set in Afterburner. If not using afterburner, set "UseAfterburner = True" to "UseAfterburner = False" in the python script.
+2. Ensure your overclock for (profile 1: mining) and (profile 2: gaming) are set in Afterburner.
+   If not using afterburner, set "UseAfterburner = True" to "UseAfterburner = False" in the python script.
 
 3. Ensure all the games you play are listed in "GameExecutableNames". If not, find and add each game's executable name to the list.
 
