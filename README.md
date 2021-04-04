@@ -75,12 +75,13 @@ RX 570 8GB |	1150 |	2050 |	870 |	30 MH/s
 RX 480 8GB |	1150 |	2150 |	900 |	31 MH/s
 RX 470 8GB |	1150 |	2000 |	900 |	30 MH/s
 
-*We recommend enabling Fast timings in AMD Radeon Software for 6000 series. 
+*Enabling Fast timings in AMD Radeon Software for 6000 series is reccomended. 
 
 *RX 5000 series values might be x2 in some overclocking tools.
 
 Bios modding is required for most RX series cards to achieve the performance numbers stated in the above table.
 
+#
 
 One you've figured out your **MINING** overclock, save it as your **1st profile** on Afterburner. This will automatically set when mining.
 
