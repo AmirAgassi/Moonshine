@@ -1,9 +1,9 @@
 # Moonshine
 **Game during the day, mine cryptocurrencies at night. Automatically and seamlessly.**
  
- The [script](../Moonshine.py) detects when a game is opened, and will disable your cryptocurrency miner, and set gaming overclocks/fans for an optimal gaming experience. When the game is closed, the miner overclocks/fans are reapplied and the cryptocurrency miner is resumed seamlessly.
+ The script detects when a game is opened, and will disable your cryptocurrency miner, and set gaming overclocks/fans for an optimal gaming experience. When the game is closed, the miner overclocks/fans are reapplied and the cryptocurrency miner is resumed seamlessly.
  
-# I do NOT support buying gaming GPU's to solely mine. This [script](../Moonshine.py) is meant for gamers who already own GPU's to make a solid income with their silicon. 
+# I do NOT support buying gaming GPU's to solely mine. This script is meant for gamers who already own GPU's to make a solid income with their silicon. 
 
 # Intro
 
@@ -93,28 +93,28 @@ In the [script](Moonshine.py), there are four editable values.
 
 **"MiningBatchFileLocation"** contains the path of the batch file for your cryptocurrency miner. You MUST change this path to your own cryptocurrency miner's batch file path.
 
-**"GameExecutableNames"** contains a list of game executable names. If the [script](../Moonshine.py) doesn't detect one of your games, add the executable name to this list. Be careful, as the [script](../Moonshine.py) checks if there is any match between a process on your PC and the entry in the list. If you'd enter a game as "Wizard" instead of a more specific ("WizardyGame") or executable ("WizardyGame.exe") name, some program like an install wizard might interfere and wrongly suspend your miner. Entries are not case-sensitive.
+**"GameExecutableNames"** contains a list of game executable names. If the script doesn't detect one of your games, add the executable name to this list. Be careful, as the script checks if there is any match between a process on your PC and the entry in the list. If you'd enter a game as "Wizard" instead of a more specific ("WizardyGame") or executable ("WizardyGame.exe") name, some program like an install wizard might interfere and wrongly suspend your miner. Entries are not case-sensitive.
 
 **"AfterburnerExecutableLocation"** contains the path to the Afterburner executable. If you don't have Afterburner installed in the default directory, change this value to the correct path.
 
-**"UseAfterburner"** is set to True by default. Set to False if you don't want the [script](../Moonshine.py) to use Afterburner.
+**"UseAfterburner"** is set to True by default. Set to False if you don't want the script to use Afterburner.
 
 # Usage
 
-1. Download the Python [script](../Moonshine.py) and install dependencies from requirements.txt .
+1. Download the Python [script](Moonshine.py) and install dependencies from requirements.txt .
 
 
-2. Ensure your overclock for (profile 1: mining) and (profile 2: gaming) are set in Afterburner. If not using afterburner, set "UseAfterburner = True" to "UseAfterburner = False" in the python [script](../Moonshine.py).
+2. Ensure your overclock for (profile 1: mining) and (profile 2: gaming) are set in Afterburner. If not using afterburner, set "UseAfterburner = True" to "UseAfterburner = False" in the python script.
 
 
 3. Ensure all the games you play are listed in "GameExecutableNames". If not, find and add each game's executable name to the list.
 
 
-4. Copy the Python [script](../Moonshine.py) over to your startup folder, at 
+4. Copy the Python script over to your startup folder, at 
 "C:\Users\YourUserName\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup", replacing "YourUserName" with your PC's user name.
 
 
-5. Run the [script](../Moonshine.py).
+5. Run the script.
 
 
 
