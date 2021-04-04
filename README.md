@@ -22,7 +22,7 @@ If you aren't overclocking your card when mining, you're throwing away money thr
 
 
 Model |	Core | Clock | Delta	| Memory | Clock | Delta	| Power Limit (W)	| Expected Performance (DaggerHashimoto)
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 RTX 3090|-300|+1000|285W|120 MH/s
 RTX 3080|-150|+900|220W|98MH/s
 RTX 3070|-500|+1100|130W|60MH/s
