@@ -16,3 +16,9 @@ Due to the fact gamers aren't playing video games 24/7, you can start mining aut
 
 **The more we mine, the more money we take away from huge-scale mining operations that eat GPUs from gamers! And we make cash in the process!**
 
+# Usage
+
+This utility uses MSI Afterburner to tune your card for both gaming and mining automatically, depending on what workload is being utilized. 
+
+Typically, mining profiles utilize very high memory overclocks, and much lower power and core clocks, which will heavily limit gaming performance.
+
