@@ -60,6 +60,8 @@ Your **GAMING** overclock (or stock settings) should be saved as the **2nd profi
 4. Copy the Python script over to your startup folder, at 
 "C:\Users\YourUserName\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup", replacing "YourUserName" with your PC's user name.
 
+5. Run the script.
+
 
 
 
