@@ -83,9 +83,9 @@ Bios modding is required for most RX series cards to achieve the performance num
 
 #
 
-One you've figured out your **MINING** overclock, save it as your **1st profile** on Afterburner. This will automatically set when mining.
+One you've figured out your **MINING** overclock and fan curves, save it as your **1st profile** on Afterburner. This will automatically set when mining.
 
-Your **GAMING** overclock (or stock settings) should be saved as the **2nd profile** on Afterburner.
+Your **GAMING** overclock and fan curves (or stock settings) should be saved as the **2nd profile** on Afterburner.
 
 # Setup
 
