@@ -51,7 +51,7 @@ Your **GAMING** overclock (or stock settings) should be saved as the **2nd profi
 
 # Usage
 
-1. Download the Python script and install dependancies from requirements.txt
+1. Download the Python script and install dependencies from requirements.txt
 
 2. Ensure your overclock for (profile 1: mining) and (profile 2: gaming) are set in Afterburner. If not using afterburner, set "UseAfterburner = True" to "UseAfterburner = False" in the python script.
 
