@@ -64,11 +64,11 @@ Your **GAMING** overclock (or stock settings) should be saved as the **2nd profi
 
 In the script, there are three editable values.
 
-"MiningBatchFileLocation" contains the path of the batch file for your cryptocurrency miner. You MUST change this path to your own cryptocurrency miner's batch file path.
+**"MiningBatchFileLocation"** contains the path of the batch file for your cryptocurrency miner. You MUST change this path to your own cryptocurrency miner's batch file path.
 
-"GameExecutableNames" contains a list of game executable names. If the script doesn't detect one of your games, add the executable name to this list.
+**"GameExecutableNames"** contains a list of game executable names. If the script doesn't detect one of your games, add the executable name to this list.
 
-"AfterburnerExecutableLocation" contains the path to the Afterburner executable. If you don't have Afterburner installed in the default directory, change this value to the correct path.
+**"AfterburnerExecutableLocation"** contains the path to the Afterburner executable. If you don't have Afterburner installed in the default directory, change this value to the correct path.
 
 
 
