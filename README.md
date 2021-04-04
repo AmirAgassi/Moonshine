@@ -3,7 +3,7 @@
  
  The script detects when a game is opened, and will disable your cryptocurrency miner, and set gaming overclocks/fans for an optimal gaming experience. When the game is closed, the miner overclocks/fans are reapplied and the cryptocurrency miner is resumed seamlessly.
  
-# I do NOT support buying gaming GPU's to solely mine. This script is meant for gamers who already own GPU's to make a solid income with their silicon. 
+**I do NOT support buying gaming GPU's to solely mine. This script is meant for gamers who already own GPU's to make a solid income with their silicon.**
 
 # Intro
 
@@ -18,7 +18,7 @@ RTX 3080 10GB | "$699" | $261.385 | $3136.62 | 348%
 #
 Due to the fact gamers aren't playing video games 24/7, you can start mining automatically with your downtime (even while using your PC for other work/school!) and generate thousands of dollars per year. 
 
-**The more we mine, the more money we take away from huge-scale mining operations that eat GPUs from gamers! And we make cash in the process!**
+# The more we mine, the more money we take away from huge-scale mining operations that eat GPUs from gamers! And we make cash in the process!
 
 # Setting up the miner
 
