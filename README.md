@@ -1,5 +1,5 @@
 # Moonshine
- Game during the day, mine at night. Automatically.
+Game during the day, mine cryptocurrencies at night. Automatically and seamlessly.
  
  The script detects when a game is opened, and will disable your cryptocurrency miner, and set gaming overclocks/fans for an optimal gaming experience. When the game is closed, the miner overclocks/fans are reapplied and the cryptocurrency miner is resumed seamlessly.
  
