@@ -62,7 +62,7 @@ Your **GAMING** overclock (or stock settings) should be saved as the **2nd profi
 
 # Setup
 
-In the script, there are three editable values.
+In the script, there are four editable values.
 
 **"MiningBatchFileLocation"** contains the path of the batch file for your cryptocurrency miner. You MUST change this path to your own cryptocurrency miner's batch file path.
 
@@ -70,16 +70,14 @@ In the script, there are three editable values.
 
 **"AfterburnerExecutableLocation"** contains the path to the Afterburner executable. If you don't have Afterburner installed in the default directory, change this value to the correct path.
 
-
+**"UseAfterburner"** is set to True by default. Set to False if you don't want the script to use Afterburner.
 
 # Usage
 
 1. Download the Python script and install dependencies from requirements.txt
 
 
-2. Ensure your overclock for (profile 1: mining) and (profile 2: gaming) are set in Afterburner.
-
-   If not using afterburner, set "UseAfterburner = True" to "UseAfterburner = False" in the python script.
+2. Ensure your overclock for (profile 1: mining) and (profile 2: gaming) are set in Afterburner. If not using afterburner, set "UseAfterburner = True" to "UseAfterburner = False" in the python script.
 
 
 3. Ensure all the games you play are listed in "GameExecutableNames". If not, find and add each game's executable name to the list.
