@@ -20,6 +20,11 @@ Due to the fact gamers aren't playing video games 24/7, you can start mining aut
 
 **The more we mine, the more money we take away from huge-scale mining operations that eat GPUs from gamers! And we make cash in the process!**
 
+# Setting up the miner
+
+You will need to setup your miner to run from a batch file. If you don't know how to setup a miner, you basically need to find a mining pool, a cryptocurrency mining program, and a wallet to store your payouts. [Son of a Tech has a great guide]https://www.youtube.com/watch?v=xqny5SSFRTo&ab_channel=SonofaTech using lolMiner as the mining program, Metamask as the wallet, and Ethermine.org as the pool.
+
+
 # Overclocking
 
 If you aren't overclocking your card when mining, you're throwing away money through your power bill and profits alike. Advanced guides are easily found online, but for a reference, a list of NVIDIA cards and their "most common" overclocks with respective expected hashrates are shown below.
@@ -50,6 +55,18 @@ GTX 1060 6GB|0|+900|80W|23 MH/s
 One you've figured out your **MINING** overclock, save it as your **1st profile** on Afterburner. This will automatically set when mining.
 
 Your **GAMING** overclock (or stock settings) should be saved as the **2nd profile** on Afterburner.
+
+# Setup
+
+In the script, there are three editable values.
+
+"MiningBatchFileLocation" contains the path of the batch file for your cryptocurrency miner. You MUST change this path to your own cryptocurrency miner's batch file path.
+
+"GameExecutableNames" contains a list of game executable names. If the script doesn't detect one of your games, add the executable name to this list.
+
+"AfterburnerExecutableLocation" contains the path to the Afterburner executable. If you don't have Afterburner installed in the default directory, change this value to the correct path.
+
+
 
 # Usage
 
