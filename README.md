@@ -57,7 +57,8 @@ Your **GAMING** overclock (or stock settings) should be saved as the **2nd profi
 
 3. Ensure all the games you play are listed in "GameExecutableNames". If not, find and add each game's executable name to the list.
 
-4. Copy the Python script over to your startup folder, at "C:\Users\YourUserName\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup", replacing "YourUserName" with your PC's user name.
+4. Copy the Python script over to your startup folder, at 
+"C:\Users\YourUserName\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup", replacing "YourUserName" with your PC's user name.
 
 
 
