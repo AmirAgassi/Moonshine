@@ -3,7 +3,7 @@
  
 # I do NOT support buying gaming GPU's to solely mine. This program is meant for gamers who already own GPU's to make a solid income with their silicon.
 
-At current prices, your GPU can generate thousands of dollars of effort-free income every year. For a rough estimate with cards I have personally tested, refer to the chart below.
+At current prices, your GPU can generate thousands of dollars of effort-free income every year. Though I can only give a rough estimate with cards I have personally tested, you can refer to the chart below for some context.
 
 GPU | Income (monthly, USD) | Income (yearly, USD)
 --- | --- | ---
