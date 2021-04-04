@@ -16,7 +16,7 @@ Due to the fact gamers aren't playing video games 24/7, you can start mining aut
 
 **The more we mine, the more money we take away from huge-scale mining operations that eat GPUs from gamers! And we make cash in the process!**
 
-# Usage
+# Overclocking
 
 If you aren't overclocking your card when mining, you're throwing away money through your power bill and profits alike. Advanced guides are easily found online, but for a reference, a list of NVIDIA cards and their "most common" overclocks with respective expected hashrates are shown below.
 
