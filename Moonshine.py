@@ -36,7 +36,7 @@ process = subprocess.Popen(MiningBatchFileLocation, startupinfo=info)
 flip = "m"
 
 
-
+ 
 def check():
 	for proc in psutil.process_iter():
 		try:
