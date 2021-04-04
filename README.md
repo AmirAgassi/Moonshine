@@ -45,9 +45,16 @@ GTX 1070ti|0|+500|135W|30 MH/s
 GTX 1070|0|+450|115W|30 MH/s
 GTX 1060 6GB|0|+900|80W|23 MH/s
 
-One you've figured out your **MINING** overclock, save it as your 1st profile on Afterburner. This will automatically set when mining.
+One you've figured out your **MINING** overclock, save it as your **1st profile** on Afterburner. This will automatically set when mining.
 
-Your **GAMING** overclock (or stock settings) should be saved as the 2nd profile on Afterburner.
+Your **GAMING** overclock (or stock settings) should be saved as the **2nd profile** on Afterburner.
+
+# Usage
+
+1. Download the Python script and install dependancies from requirements.txt
+2. Ensure your overclock for (profile 1: mining) and (profile 2: gaming) are set in Afterburner. If not using afterburner, set "UseAfterburner = True" to "UseAfterburner = False" in the python script.
+3. Ensure all the games you play are listed in "GameExecutableNames". If not, find and add each game's executable name to the list.
+4. Copy the Python script over to your startup folder, at "C:\Users\**YourUserName**\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup", replacing "YourUserName" with your PC's user name.
 
 
 
