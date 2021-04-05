@@ -29,7 +29,7 @@ You will need to setup your miner to run from a batch file.
 
 If you don't know how to setup a miner, you basically need to find a mining pool, a cryptocurrency mining program, and a wallet to store your payouts.
 
-[Son of a Tech has a great guide](https://www.youtube.com/watch?v=xqny5SSFRTo&ab_channel=SonofaTech) using lolMiner as the mining program, Metamask as the wallet, and Ethermine.org as the pool.
+[Son of a Tech has a great guide on mining ethereum](https://www.youtube.com/watch?v=xqny5SSFRTo&ab_channel=SonofaTech) using lolMiner as the mining program, Metamask as the wallet, and Ethermine.org as the pool.
 
 
 # Overclocking
