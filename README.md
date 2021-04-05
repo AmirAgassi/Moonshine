@@ -17,6 +17,8 @@ RX 580 8GB | "$175" | $77.775 | $933.3 | 433%
 RTX 3060ti 8GB | "$399" | $165.92 | $1991.04 | 399%
 RTX 3080 10GB | "$699" | $261.385 | $3136.62 | 348%
 #
+**These profit margins are INSANE and should NOT be monopolized solely by miners.**
+#
 Due to the fact gamers aren't playing video games 24/7, you can start mining automatically with your downtime (even while using your PC for other work/school!) and generate thousands of dollars per year. 
 
 # The more we mine, the more money we take away from huge-scale mining operations that eat GPUs from gamers! And we make cash in the process!
