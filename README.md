@@ -13,9 +13,10 @@ Though I can only give a rough estimate with cards I have personally tested, you
 **4/4/2021**
 GPU | "MSRP" | Income (monthly, USD) | Income (yearly, USD) | Return on Investment Yearly (MSRP!)
 --- | --- | --- | --- | --- |
-RX 580 8GB | "$175" | $77.775 | $933.3 | 433%
-RTX 3060ti 8GB | "$399" | $165.92 | $1991.04 | 399%
-RTX 3080 10GB | "$699" | $261.385 | $3136.62 | 348%
+RX 580 8GB | "$175" | $77.775 | *$933.3 | 433%
+RTX 3060ti 8GB | "$399" | $165.92 | *$1991.04 | 399%
+RTX 3080 10GB | "$699" | $261.385 | *$3136.62 | 348%
+*These figures don't take electricity costs into account - you'll need to calculate them yourself with your local rates.
 #
 **These profit margins are INSANE and should NOT be monopolized by miners.**
 #
